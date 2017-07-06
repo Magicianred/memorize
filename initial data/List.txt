@@ -1,0 +1,255 @@
+the towel	la toalla
+the water	el agua
+the bread	el pan
+can i use the phone?	¿Puedo usar el teléfono?
+the noise	el ruido
+what time is it?	¿Qué hora es?
+the sky	el cielo
+the cold	el frío
+the beach	la playa
+the bus	el autobús
+the fork	el tenedor
+the spoon	la cuchara
+the knife	el cuchillo
+my name is	mi nombre es
+One	Uno
+Two	Dos
+Three	Tres
+Four	Cuatro
+Five	Cinco
+Six	Seis
+Seven	Siete
+Eight	Ocho
+Nine	Nueve
+Ten	Diez
+street	calle
+how much?	¿cuánto
+white	blanco
+green	verde
+blue	azul
+red	rojo
+black	negro
+i want to sleep	Quiero dormir
+i need to sleep	Necesito dormir
+eleven	once
+twelve	doce
+thirteen	trece
+fourteen	catorce
+fifteen	quince
+sixteen	dieciséis
+seventeen	diecisiete
+eighteen	dieciocho
+nineteen	diecinueve
+twenty	veinte
+zero	cero
+minus one	menos uno
+I'm thirsty	Tengo sed
+I'm hungry	Tengo hambre
+the sea	el mar
+I'm sorry	Lo siento
+I like running	Me gusta correr
+The dog	El perro
+The cat	El gato
+Nice cat	Gato Niza
+the father	el padre
+the mother	la madre
+the son	el hijo
+the daughter	la hija
+the brother	el hermano
+the sister	la hermana
+the husband	el marido
+the wife	la esposa
+the cousin	el primo
+the uncle	el tío
+the aunt	la tía
+my uncle	mi tío
+my aunt	mi tía
+your uncle	su tío
+your aunt	su tía
+our uncle	nuestro tío
+our aunt	nuestro tía
+their uncle	su tío
+their aunt	su tía
+my uncles	mis tíos
+your uncles	sus tíos
+our uncles	nuestro tíos
+their uncles	sus tíos
+the building	el edificio
+the building is tall	el edificio es alto
+the boy	el niño
+the boy is tall	el muchacho es alto
+the girl	la niña
+the girl is short	la chica es corta
+wait for me	espérame
+hurry	prisa
+go away	desaparece
+thank you	gracias
+I want to buy sunglasses	Quiero comprar gafas de sol
+I feel cold	Me siento frío
+cough	tos
+Monday	Lunes
+Tuesday	Martes
+Wednesday	Miércoles
+Thursday	Jueves
+Friday	Viernes
+Saturday	Sábado
+Sunday	Domingo
+Good morning	Buenos días
+Good night	Buenas noches
+eyes	ojos
+can you speak louder	puede hablar más alto
+He has a big heart	Él tiene un gran corazón
+I have it in my hand	Lo tengo en mi mano
+the bird is on the tree	el pájaro está en el árbol
+the plane is flying	el avión está volando
+the plane flew	el avión voló
+What's your name?	¿Cuál es tu nombre?
+Close your eyes	Cierra los ojos
+open the door	abrir la puerta
+Where are you going?	¿A dónde vas?
+are you going up or down?	vas hacia arriba o hacia abajo?
+can I have a napkin please	puedo tener una servilleta por favor
+is this table available?	Es esta mesa disponible?
+burp	eructar
+where are you from?	de dónde eres?
+There is no hot water in my room	No hay agua caliente en mi habitación
+one moment please	un momento por favor
+I am going to the beach	Me voy a la playa
+did you see that?	¿has visto eso?
+I knew it	Yo lo sabía
+I can't sleep	No puedo dormir
+I am going to sneeze	Voy a estornudar
+I want to rent a bike	Quiero alquilar una bicicleta
+It smells good	Huele bien
+I can't find my bag	No puedo encontrar mi bolsa
+I lost my keys	He perdido mis llaves
+I'm scared	Tengo miedo
+Wash your hand	Lávese las manos
+It's a sunny day	Es un día soleado
+I need a jacket	Necesito una chaqueta
+Can I have a biscuit?	¿Puedo tener una galleta?
+This car is fast	Este coche es rápido
+The soup is hot	La sopa está caliente
+Can I use the internet?	¿Puedo usar el Internet?
+Can I drive the car?	¿Puedo conducir el coche?
+I have a headache	Tengo un dolor de cabeza
+Can I have chocolate milk?	¿Puedo tomar leche de chocolate?
+Can I have a pen and paper?	¿Puedo tener un lápiz y papel?
+It has been raining all night	Ha estado lloviendo toda la noche
+Are you happy now?	¿Estás contento ahora?
+I am not ready	Yo no estoy dispuesto
+Don't do it again	No lo hagas de nuevo
+Can I speak to you?	¿Puedo hablar con usted?
+let me help you	deja que te ayude
+What time are you leaving?	¿A qué hora te vas?
+I forgot to lock the door	Me olvidé de cerrar la puerta
+She just left	Ella acaba de salir
+I can't remember	No puedo recordar
+Try again	Inténtelo de nuevo
+Can you see me now?	¿Puedes verme ahora?
+Can I have two towels please?	¿Puedo tener dos toallas por favor?
+I never saw anything like that before	Nunca he visto algo así antes
+Is it heavy?	¿Es pesada?
+Do you remember me?	¿Te acuerdas de mí?
+Help me please	Ayuda por favor
+Sit down	Sentarse
+Where did I park?	Cuando hice parque?
+Hello	Hola
+Follow me please	Sígame por favor
+Sorry I'm late	Siento llegar tarde
+I am walking to the north	Estoy caminando hacia el norte
+I need a chair	Necesito una silla
+I need a clean table	Necesito una mesa limpia
+Look in the mirror	Mírate en el espejo
+I bought new pants	Compré pantalones nuevos
+The sand is hot	La arena está caliente
+I will walk on the sand	Voy a caminar sobre la arena
+yes	sí
+talk to him	hablar con él
+where is the washroom	¿dónde está el baño
+Where is the garbage bin	¿Dónde está el cubo de la basura
+There is no electricity	No hay electricidad
+I am waiting for the elevator	Estoy esperando el ascensor
+Push the button	Pulse el botón
+The mirror is broken	El espejo está roto
+Can I have a glass of water?	¿Puedo tomar un vaso de agua?
+Broken leg	fractura en la pierna
+Call me	Llámame
+Write to me	Escribir para mí
+Bone	hueso
+Fish	pescado
+Chicken	pollo
+Pork	carne de cerdo
+Beef	carne de res
+Time	tiempo
+sound	sonido
+Dirty	sucio
+The sun	el sol
+The window	la ventana
+The boat	el barco
+The river	el río
+The cloud	la nube
+The finger	el dedo
+My nose	mi nariz
+Shark	tiburón
+The air	el aire
+Breathe deeply	respire profundamente
+It's annoying	Es muy molesto
+rabbit	conejo
+socks	calcetines
+The wind	el viento
+The salt	la sal
+The sugar	el azúcar
+a frog	una rana
+The soap	el jabón
+crab	cangrejo
+number	número
+The horse	el caballo
+My teeths	mi zubev
+My mouth hurts	Mi boca duele
+We need new tires	Necesitamos nuevos neumáticos
+It's distracting	Es una distracción
+I like that song	Me gusta esa canción
+I need new shoes	Necesito zapatos nuevos
+I am working	Estoy trabajando
+What's the name of this city	¿Cuál es el nombre de esta ciudad
+Turn on the light	Encender la luz
+My hair is dry	Mi cabello es seco
+Stop	parada
+one word	una palabra
+this book	este libro
+I need an answer	Necesito una respuesta
+The south	el sur
+Don't touch it	No lo toques
+I can see the stars	Puedo ver las estrellas
+wake up	despertarse
+Can I have a haircut?	¿Puedo tener un corte de pelo?
+let me think about it	déjame pensar en ello
+I need a drink	Necesito un trago
+My right shoulder hurts	Duele el hombro derecho
+My right ear	Mi oído derecho
+How old are you?	¿Cuántos años tienes?
+money	dinero
+Read the book	Lea el libro
+I am reading	Estoy leyendo
+First	primero
+Second	segundo
+Third	tercera
+Fourth	cuarto
+Fifth	quinto
+Sixth	sexto
+Seventh	séptimo
+Turn left	Gire a la izquierda
+Left hand	la mano izquierda
+Cheap	barato
+Expensive	caro
+Wine	vino
+No smoking	no fumar
+I don't understand	No lo entiendo
+I feel sick	Me siento mal
+Yellow	amarillo
+tip	propina
+a dream	un sueño
+cheese	queso
+Where should I go?	¿Dónde debo ir?
+
